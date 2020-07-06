@@ -12,6 +12,6 @@ If you execute the JAR file (you need at least JRE 7 on your machine), a small w
 If the new updated price is higher than the previous one, the price will turn green, if it is lower, it will turn red, and if it stays the same the price stays (or turns) black. You can also zoom-in and out the chart with the scroll wheel or by selecting an area on the chart.
 
 ## Class diagram : 
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.PNG"> 
-	<img src="https://github.com/alexandrebulatovic/bitcoin_price_updater/blob/master/design-diagrams/personal-project-bitcoin.PNG" width="150">
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.png"> 
+	<img src="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.png" width="150">
 </a>
